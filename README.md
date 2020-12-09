@@ -9,7 +9,7 @@ The site should be available at http://localhost:8095/
 # Live Demo
 
 There will not be live demos scheduled for this project, unless a reviewer is absolutely unable to get the code running on their own. Instead, there is a video available to view with UIUC school credentials at https://drive.google.com/file/d/10HNOJZRPQ2lLqYDfIC213dDoGAChQEv7/view?usp=sharing 
-It should be noted that the page that is shown in the first part is the http://timan102.cs.illinois.edu/expertsearch// the current ExpertSearch website. The added functionality program is run locally through my personal computer. We can see how the new functionality allows users the convenience of not having to click the "Load More" button, while the program is simultaneously not burdensome by loading all the results at once.
+It should be noted that the page that is shown in the first part is the current ExpertSearch website http://timan102.cs.illinois.edu/expertsearch/. The added functionality program is run locally through my personal computer. We can see how the new functionality allows users the convenience of not having to click the "Load More" button, while the program is simultaneously not burdensome by loading all the results at once.
 
 If reviewers want to personally run the code, they can simply download the repository and run it per the instructions above (may need to pip install some packages) to achieve/replicate the results. If issues occur, please message/email me as the author and we will get things sorted out. Please not that you should absolutely use Linux or MacOS, as gunicorn will not run in Windows, and install Python 2.7 (not any Python3 distributions). I personally used Ubuntu in developing this project.
 
