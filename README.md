@@ -8,7 +8,7 @@ The site should be available at http://localhost:8095/
 
 # Live Demo
 
-There will not be live demos scheduled for this project, unless a reviewer is absolutely unable to get the code running on their own. Instead, there is a video available to view with UIUC school credentials at https://drive.google.com/file/d/10HNOJZRPQ2lLqYDfIC213dDoGAChQEv7/view?usp=sharing.
+There will not be live demos scheduled for this project, unless a reviewer is absolutely unable to get the code running on their own. Instead, there is a video available to view with UIUC school credentials at https://drive.google.com/file/d/10HNOJZRPQ2lLqYDfIC213dDoGAChQEv7/view?usp=sharing. Please note the quality through video preview is quite low; downloading the video will result in higher quality results, though core functionality can still be verified at lower quality.
 
 It should be noted that the page that is shown in the first part is the current ExpertSearch website http://timan102.cs.illinois.edu/expertsearch/. The added functionality program is run locally through my personal computer. We can see how the new functionality allows users the convenience of not having to click the "Load More" button, while the program is simultaneously not burdensome by loading all the results at once.
 
