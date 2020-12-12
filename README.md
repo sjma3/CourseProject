@@ -1,4 +1,4 @@
-# ExpertSearch
+# ExpertSearch Setup (Copy-Paste from https://github.com/CS410Fall2020/ExpertSearch/)
 
 To run the code, run the following command from `ExpertSearch` (tested with Python2.7 on MacOS and Linux):
 
