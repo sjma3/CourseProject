@@ -1,4 +1,13 @@
-# ExpertSearch Setup (Copy-Paste from https://github.com/CS410Fall2020/ExpertSearch/)
+Note that this project falls under 3.3, "Adding an unlisted function to a listed system."
+
+"At the final stage of your project, you need to deliver the following:
+Your documented source code. Explain how your code communicates with or utilize the system.
+A demo that shows your implementation actually works."
+
+
+# ExpertSearch Setup
+
+(Copy-Paste from https://github.com/CS410Fall2020/ExpertSearch/)
 
 To run the code, run the following command from `ExpertSearch` (tested with Python2.7 on MacOS and Linux):
 
